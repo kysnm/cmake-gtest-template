@@ -1,0 +1,8 @@
+[submodule "deps/googletest"]
+	path = deps/googletest
+	url = https://chromium.googlesource.com/external/googletest
+	ignore = dirty
+[submodule "deps/googlemock"]
+	path = deps/googlemock
+	url = https://chromium.googlesource.com/external/googlemock
+	ignore = dirty
